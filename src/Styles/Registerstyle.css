@@ -1,0 +1,35 @@
+.login-body{
+    display: flex;
+    text-align:center;
+}
+/* .login-body-img{
+    height: 20%;
+}
+.login-body-img img{
+    width: 100%;
+} */
+form{
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+}
+form h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 33px;
+    color: #00302E;
+}
+form input{
+    background: rgba(255, 255, 255, 0.83);
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    border-radius: 5px;
+    padding: 1rem 5rem;
+}
+form button{
+    padding: 15px 40px;
+    background: #00302E;
+    border-radius: 5px;
+    color:white;
+}

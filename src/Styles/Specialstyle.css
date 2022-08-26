@@ -1,0 +1,23 @@
+.spec{
+    color: white;
+    text-align: center;
+    padding-top: 4rem;
+    background-color: #00302E;
+    margin: 0rem;
+}
+.spec h2{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 33px;
+}
+.spec p{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+width: 50%;
+margin: 1rem auto 0rem;
+}

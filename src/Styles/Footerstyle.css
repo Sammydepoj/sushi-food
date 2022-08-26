@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.footer-all{
+    background-color: #0B0D17;
+    padding:.5rem 3rem;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #F4F5F7;
+}
+li{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #EEEFF4;
+    list-style-type: none;
+    margin: 1rem 0rem 0rem -2.5rem ;
+}
+.foot{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid white;
+    padding: 0rem 1rem;
+}
+.socials{
+display: flex;
+justify-content: space-around;
+}
+.socials img{
+    margin: 0rem 1rem;
+}

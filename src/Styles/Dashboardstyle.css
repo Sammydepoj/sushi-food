@@ -1,0 +1,68 @@
+.dashboard-body{
+  display: flex;
+  justify-content: stretch;
+}
+.menuBar{
+    padding: 2rem;
+    /* position: absolute;
+    height: 900px;
+    left: 0px;
+    top: 0px; */
+    background: #FBFBFB;
+    border-radius: 20px;
+    width: 30%;
+}
+
+.heading{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 50px;
+    letter-spacing: 0.05em;
+    color: #00302E;
+    margin: 1rem; 
+}
+.dash-navs{
+    margin: 2rem 0rem;
+}
+.dash-navs span{
+    margin: 0.5rem;
+}
+.dashBody{
+    padding: 2rem;
+    width: 100%;
+}
+.name-pic{
+    display: flex;
+    justify-content: space-between;
+}
+.name h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 33px;
+    color: #00302E;
+    margin-bottom: 0rem;
+}
+.name p{
+    margin-top: 0rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.69);
+}
+/* .pic{
+    justify-self: flex-end;
+} */
+.menus{
+    display: flex;
+    place-content: space-evenly;
+    place-items: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+}

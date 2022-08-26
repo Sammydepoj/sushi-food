@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Rubik:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+
+.Notifybody{
+    display: flex;
+    padding:4.5rem 3rem;
+    background-color: #00302E;
+}
+.Notifybody-text{
+    width:50%;
+}
+.Notifybody-text h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 33px;
+    color: #FBDDBB;
+}
+.Notifybody-text p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.95);
+}
+.formInput{
+    width: 50%;
+}
+form{
+    width: 100%;
+    padding: 4rem 1rem;
+}
+form input{
+    padding:1rem 3rem;
+    background: #F7F7F7;
+    border: 1px solid #B3B3B3;
+    border-radius: 5px;
+    margin: 1rem;
+}
+form button{
+    padding:1rem 1rem;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #00302E;
+    border-radius: 5px;
+    background-color: #FBDDBB;
+    border: none;
+}
